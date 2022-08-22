@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **NLP, Computer Vision, Pytorch,Django**
 
-- 👨‍💻 All of my projects are available at [https://linktr.ee/ashutoshsinha](https://linktr.ee/ashutoshsinha)
+- 👨‍💻 All of my socials are available at [https://linktr.ee/ashutoshsinha](https://linktr.ee/ashutoshsinha)
 
 - 📫 How to reach me **ashutoshsinha519@gmail.com**
 
