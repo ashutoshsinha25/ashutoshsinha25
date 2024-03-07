@@ -1,13 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ashutosh Sinha</h1>
 <h3 align="center">Data Scientist | Machine Learning Engineer | NLP Enthusiast | Computer Vision Learner</h3>
-I am a Data Scientist with 8 months of work experience, specializing in machine learning, deep learning, computer vision (in the learning phase), and NLP (also in the learning phase). With a strong foundation in Python programming, I possess expertise in developing and implementing data-driven solutions. I am skilled in working with APIs and have knowledge of Java, data structures, and algorithms.
-
-
-My professional experience has allowed me to gain practical knowledge in data preprocessing, feature engineering, and model development. I have experience working with various machine learning algorithms and frameworks, such as TensorFlow and PyTorch. I am passionate about leveraging data to extract valuable insights and make informed business decisions.
-
+I am a Data Scientist with 1+ of work experience, specializing in machine learning, deep learning and NLP. With a strong foundation in Python programming, I possess expertise in developing and implementing data-driven solutions. I am skilled in working with APIs and have knowledge of Java, data structures, and algorithms.
 
 In addition to my technical skills, I am a quick learner and enjoy staying up-to-date with the latest advancements in the field of data science. I am constantly expanding my knowledge by exploring new concepts and techniques. I am enthusiastic about tackling challenging problems and collaborating with interdisciplinary teams to deliver impactful solutions.
-
 
 If you are interested in discussing data science projects, collaborating on research, or exploring new opportunities, please feel free to reach out. I am always excited to connect with like-minded professionals in the field.
 
