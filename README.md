@@ -1,12 +1,6 @@
-<h1 align="center">Hi 👋, I'm Ashutosh Sinha</h1>
+<h1 margin-bottom: 5px;">Hello, world!<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" alt="Hi" style="width: 30px;margin-left: 10px;"></h1>
+<h1 align="center">I'm Ashutosh Sinha</h1>
 <h3 align="center">Data Scientist | Machine Learning Engineer | NLP Enthusiast | Computer Vision Learner</h3>
-I am a Data Scientist with 1+ of work experience, specializing in machine learning, deep learning and NLP. With a strong foundation in Python programming, I possess expertise in developing and implementing data-driven solutions. I am skilled in working with APIs and have knowledge of Java, data structures, and algorithms.
-
-In addition to my technical skills, I am a quick learner and enjoy staying up-to-date with the latest advancements in the field of data science. I am constantly expanding my knowledge by exploring new concepts and techniques. I am enthusiastic about tackling challenging problems and collaborating with interdisciplinary teams to deliver impactful solutions.
-
-If you are interested in discussing data science projects, collaborating on research, or exploring new opportunities, please feel free to reach out. I am always excited to connect with like-minded professionals in the field.
-
-- 🌱 I’m currently learning **NLP, Computer Vision, Pytorch,Django**
 
 - 👨‍💻 All of my socials are available at [https://linktr.ee/ashutoshsinha](https://linktr.ee/ashutoshsinha)
 
