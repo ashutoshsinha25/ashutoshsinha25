@@ -1,4 +1,4 @@
-<h1 margin-bottom: 5px;">Hello, world!<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" alt="Hi" style="width: 30px;margin-left: 10px;"></h1>
+<h1 margin-bottom: 5px;">Hi, I'm Ashutosh Sinha!!<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" alt="Hi" style="width: 30px;margin-left: 10px;"></h1>
 
 <!--
 <h1 align="center">I'm Ashutosh Sinha</h1>
@@ -36,7 +36,7 @@
 
 
 
-# Hi, I'm Ashutosh Sinha!
+
 
 🚀 **Data Scientist** | **AI/ML Enthusiast** | **MLOps Explorer**  
 📊 Passionate about uncovering insights, building predictive models, and solving real-world problems with data.  
