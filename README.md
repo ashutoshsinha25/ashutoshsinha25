@@ -96,7 +96,7 @@
 
 ## 📬 **Contact Me**
 - 📧 Email: [ashutoshsinha519@gmail.com](mailto:ashutoshsinha519@gmail.com)  
-- 💼 LinkedIn: [(https://www.linkedin.com/in/ashutosh-sinha-/)]((https://www.linkedin.com/in/ashutosh-sinha-/))  
+- 💼 LinkedIn: [https://www.linkedin.com/in/ashutosh-sinha-/]((https://www.linkedin.com/in/ashutosh-sinha-/))  
 
 ---
 
